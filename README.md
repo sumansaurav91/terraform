@@ -4,3 +4,7 @@
 
 ## Terraform Architecture
 
+<img src="Images/terraformarch.png" alt="terraform architecture"/>
+
+* Source Image - A Cloud Guru
+
